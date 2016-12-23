@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9eddb1960f254e9586d9769ee7c2d146" Name="Diagram1" >
+        <EntityTypeShape EntityType="PongModel.Game" Width="1.5" PointX="4.375" PointY="1.5" />
+        <EntityTypeShape EntityType="PongModel.Player" Width="2.625" PointX="0.5" PointY="1.625" />
+        <AssociationConnector Association="PongModel.GamePlayer1" />
+        <AssociationConnector Association="PongModel.GamePlayer" />
+        <AssociationConnector Association="PongModel.GamePlayer2" />
+        <AssociationConnector Association="PongModel.PlayerGame" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,545 @@
+Delivered-To: kyle.pinzon@gmail.com
+Received: by 10.27.131.209 with SMTP id y78csp2277252wlh;
+        Sat, 26 Dec 2015 10:26:37 -0800 (PST)
+X-Received: by 10.50.49.68 with SMTP id s4mr44370430ign.39.1451154397379;
+        Sat, 26 Dec 2015 10:26:37 -0800 (PST)
+Return-Path: <meicsrs@microcenter.com>
+Received: from hoexcas01.ad.microcenter.com (webmail.ad.microcenter.com. [66.194.187.100])
+        by mx.google.com with ESMTPS id k11si42663794iof.167.2015.12.26.10.26.36
+        for <kyle.pinzon@gmail.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Sat, 26 Dec 2015 10:26:37 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of meicsrs@microcenter.com designates 66.194.187.100 as permitted sender) client-ip=66.194.187.100;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of meicsrs@microcenter.com designates 66.194.187.100 as permitted sender) smtp.mailfrom=meicsrs@microcenter.com
+Received: from howeb01 (10.10.1.205) by smtprelay.ad.microcenter.com
+ (10.10.1.155) with Microsoft SMTP Server id 14.3.248.2; Sat, 26 Dec 2015
+ 13:26:36 -0500
+MIME-Version: 1.0
+From: <csrs@microcenterorder.com>
+To: <kyle.pinzon@gmail.com>
+Date: Sat, 26 Dec 2015 13:26:36 -0500
+Subject: Some of your stuff is Ready
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <d0ca0e85-2cd1-4b38-b6c6-74bd9a604184@HOEXCAS01.ad.microcenter.com>
+Return-Path: csrs@microcenterorder.com
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<HTML =
+xmlns=3D"http://www.w3.org/1999/xhtml">=0A    <HEAD>=0A        <T=
+ITLE>Micro Center - Some of Your Stuff is Ready!</TITLE>=0A      =
+  <META content=3D"text/html; charset=3Diso-8859-1" http-equiv=3D=
+Content-Type>=0A        <META name=3Dviewport content=3Dwidth=3Dd=
+evice-width>=0A        <STYLE type=3Dtext/css>=0A            body=
+ {=0A            background:#ffffff;=0A            margin-top:12p=
+x;=0A            font-family: Verdana, Arial, Helvetica, sans-ser=
+if;=0A            }=0A            a.nav:hover {=0A            fon=
+t-size: 13px;=0A            color: #a0b8e4;=0A            text-de=
+coration: none:=0A            }=0A            a.nav:active {=0A  =
+          font-size: 13px;=0A            color: #3a5e99;=0A      =
+      text-decoration: none;=0A            }=0A            a.nav:=
+link {=0A            font-size: 13px;=0A            color: #3a5e9=
+9;=0A            text-decoration: none;=0A            }=0A       =
+     a.nav:visited {=0A            font-size: 13px;=0A           =
+ color: #8621bb;=0A            text-decoration: none;=0A         =
+   }=0A        </STYLE>=0A    </HEAD>=0A    <BODY style=3D"HEIGHT=
+: 225px" aLink=3D#3a5e99 link=3D#3a5e99 bgColor=3D#ffffff text=3D=
+#000000 vLink=3D#8621bb jQuery191014711700119454285=3D"3" jQuery1=
+9107755029644019438=3D"21" jQuery19104618686956470006=3D"3" jQuer=
+y19103295196362313364=3D"16" jQuery19107735092404399716=3D"3" jQu=
+ery19109706131090550669=3D"3" jQuery19106062233120587647=3D"3" jQ=
+uery191013470487956092836=3D"3">=0A        <TABLE cellSpacing=3D0=
+ cellPadding=3D0 width=3D640 align=3Dcenter bgColor=3D#ffffff bor=
+der=3D0>=0A            <TBODY>=0A                <TR>=0A         =
+           <TD vAlign=3Dtop align=3Dleft>=0A                    <=
+TABLE width=3D640 align=3Dcenter border=3D0>=0A                  =
+      <TBODY>=0A                            <TR>=0A              =
+                  <TD style=3D"COLOR: #4d70b3; FONT: 20px Arial, =
+Helvetica, sans-serif" vAlign=3Dtop width=3D"100%" align=3Dright>=
+<SPAN style=3D"TEXT-DECORATION: underline">Some</SPAN> of Your St=
+uff is Ready!</TD>=0A                            </TR>=0A        =
+                    <TR>=0A                                <TD st=
+yle=3D"BORDER-BOTTOM: #a0b8e4 1px solid; PADDING-BOTTOM: 8px; FON=
+T: 13px Verdana, Arial, Helvetica, sans-serif" vAlign=3Dtop align=
+=3Dleft><A class=3Dnav style=3D"TEXT-DECORATION: none" href=3D"ht=
+tp://www.microcenter.com/site/customer-support/help.aspx">&bull; =
+CUSTOMER SUPPORT </A>&nbsp;&nbsp;<A class=3Dnav style=3D"TEXT-DEC=
+ORATION: none" href=3D"http://www.microcenter.com/site/stores/def=
+ault.aspx" target=3D_blank>&bull; STORE LOCATIONS</A></TD>=0A    =
+                        </TR>=0A                            <TR>=0A=
+                                <TD style=3D"BORDER-BOTTOM: #a0b8=
+e4 1px solid" vAlign=3Dtop align=3Dleft>=0A                      =
+          <TABLE style=3D"PADDING-BOTTOM: 1px; PADDING-TOP: 1px; =
+PADDING-LEFT: 1px; PADDING-RIGHT: 1px" width=3D"100%">=0A        =
+                            <TBODY>=0A                           =
+             <TR>=0A                                            <=
+TD vAlign=3Dmiddle width=3D"20%" align=3Dleft><A href=3D"http://w=
+ww.microcenter.com" target=3D_blank><IMG class=3Dmasthead border=3D=
+0 alt=3D"Thank You for shopping with us!" src=3D"http://c783319.r=
+19.cf2.rackcdn.com/images_Transactional_emails_masthead.gif" widt=
+h=3D200 height=3D128></A></TD>=0A                                =
+            <TD vAlign=3Dmiddle align=3Dleft>=0A                 =
+                           <TABLE style=3D"FONT: 13px Verdana, Ar=
+ial, Helvetica, sans-serif" cellSpacing=3D4 cellPadding=3D2 width=
+=3D400>=0A                                                <TBODY>=
+=0A                                                    <TR>=0A   =
+                                                     <TD vAlign=3D=
+middle align=3Dleft>Your <STRONG>Partial</STRONG> Pickup Order is=
+ ready at &raquo;</TD>=0A                                        =
+            </TR>=0A                                             =
+       <TR>=0A                                                   =
+     <TD vAlign=3Dmiddle align=3Dleft>1100 East Edinger Avenue </=
+TD>=0A                                                    </TR>=0A=
+                                                    <TR>=0A      =
+                                                  <TD vAlign=3Dmi=
+ddle align=3Dleft>Tustin, CA 92780</TD>=0A                       =
+                             </TR>=0A                            =
+                        <TR>=0A                                  =
+                      <TD vAlign=3Dmiddle align=3Dleft>YOUR ORDER=
+ RECEIVED:  9:18 AM on Dec 26 2015</TD>=0A                       =
+                             </TR>=0A                            =
+                        <TR>=0A                                  =
+                      <TD vAlign=3Dmiddle align=3Dleft>YOUR ORDER=
+ CONFIRMED: 10:26 AM on Dec 26 2015</TD>=0A                      =
+                              </TR>=0A                           =
+                         <TR>=0A                                 =
+                       <TD style=3D"COLOR: #aa0c17; FONT: 11px Ve=
+rdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dleft=
+>PLEASE SAVE OR PRINT THIS EMAIL FOR YOUR RECORDS</TD>=0A        =
+                                            </TR>=0A             =
+                                   </TBODY>=0A                   =
+                         </TABLE>=0A                             =
+               </TD>=0A                                        </=
+TR>=0A                                    </TBODY>=0A            =
+                    </TABLE>=0A                                </=
+TD>=0A                            </TR>=0A                       =
+     <TR>=0A                                <TD vAlign=3Dtop alig=
+n=3Dleft></TD>=0A                            </TR>=0A            =
+                <TR>=0A                                <TD vAlign=
+=3Dtop align=3Dleft>=0A                                <TABLE wid=
+th=3D"100%">=0A                                    <TBODY>=0A    =
+                                    <TR>=0A                      =
+                      <TD vAlign=3Dtop width=3D"75%" align=3Dleft=
+><SPAN style=3D"COLOR: #4d70b3; FONT: 18px/130% Arial, Helvetica,=
+ sans-serif">Just an FYI - <SPAN style=3D"TEXT-DECORATION: underl=
+ine">some</SPAN> of your order has been processed and is ready to=
+ pick up!* However, certain items are currently out of stock.</SP=
+AN><BR>=0A                                            <BR>=0A    =
+                                        <!--<STRONG> We're Moving=
+ </STRONG><BR>=0A                                            <BR>=
+=0A                                            <SPAN style=3D"FON=
+T: 18px/130% Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fff=
+f00"> </SPAN> --> <SPAN style=3D"FONT: 13px Verdana, Arial, Helve=
+tica, sans-serif">Your order included a bundle promotion or coupo=
+n code. In these instances, all related items must be in stock to=
+ apply the discount.  Regrettably, the following SKU(s) is not av=
+ailable at this time at our Tustin Store.  <br></br> SKU(s) not i=
+n stock at this time: <STRONG>629204,898486</STRONG><br></br> If =
+you used a coupon code for an unavailable item, the coupon will b=
+e reactivated within an hour for use on in-stock items. PLEASE NO=
+TE: If the item was cancelled after 8:00 p.m., your coupon will n=
+ot be available until the next business day. <br></br> Before you=
+ come in and pick up the available items, please read over these =
+<STRONG>3 Steps for Success</STRONG>. We always look forward to s=
+eeing you at our Tustin Micro Center.</SPAN><BR>=0A              =
+                              <BR>=0A                            =
+                <SPAN style=3D"FONT: 15px Verdan, Arial, Helvetic=
+a, sans-serif">For the out of stock items, please check online an=
+d reorder when they become available.</SPAN><BR>=0A              =
+                              <BR>=0A                            =
+                <TABLE style=3D"BORDER-TOP: #aeb9cb 1px solid; BO=
+RDER-RIGHT: #aeb9cb 1px solid; BORDER-BOTTOM: #aeb9cb 1px solid; =
+PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; BORDER-=
+LEFT: #aeb9cb 1px solid; MARGIN-TOP: 12px; PADDING-RIGHT: 3px; -w=
+ebkit-border-radius: 6px; -moz-border-radius: 6px" width=3D"100%"=
+>=0A                                                <TBODY>=0A   =
+                                                 <TR>=0A         =
+                                               <TD vAlign=3Dmiddl=
+e width=3D"25%" align=3Dcenter><IMG alt=3D"Print this Email" src=3D=
+"http://c783319.r19.cf2.rackcdn.com/images_Transactional_emails_P=
+RINTicon.gif" width=3D100 height=3D60></TD>=0A                   =
+                                     <TD style=3D"BORDER-BOTTOM: =
+#4d70b3 1px solid; FONT: 13px Verdana, Arial, Helvetica, sans-ser=
+if" vAlign=3Dmiddle width=3D"75%" align=3Dleft><STRONG>Step 1:</S=
+TRONG> PRINT this EMAIL<BR>=0A                                   =
+                     Please bring this email, your credit card an=
+d photo ID.</TD>=0A                                              =
+      </TR>=0A                                                   =
+ <TR>=0A                                                        <=
+TD vAlign=3Dmiddle align=3Dcenter><IMG alt=3D"Online Order Pickup=
+ Sign" src=3D"http://c783319.r19.cf2.rackcdn.com/images_Transacti=
+onal_emails_PICKUPicon.gif" width=3D100 height=3D60></TD>=0A     =
+                                                   <TD style=3D"B=
+ORDER-BOTTOM: #4d70b3 1px solid; FONT: 13px Verdana, Arial, Helve=
+tica, sans-serif" vAlign=3Dmiddle align=3Dleft><STRONG>Step 2:</S=
+TRONG> FIND the SIGN<BR>=0A                                      =
+                  When you&rsquo;re ready to check out, look for =
+the &ldquo;Online Orders &ndash; Pickup Here&rdquo; sign at the f=
+ront of the store.</TD>=0A                                       =
+             </TR>=0A                                            =
+        <TR>=0A                                                  =
+      <TD align=3Dcenter><IMG alt=3D"Sign for your order" src=3D"=
+http://c783319.r19.cf2.rackcdn.com/images_Transactional_emails_si=
+gnICON.gif" width=3D100 height=3D60></TD>=0A                     =
+                                   <TD style=3D"FONT: 13px Verdan=
+a, Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dleft><ST=
+RONG>Step 3:</STRONG> PICK UP MERCHANDISE <BR>=0A                =
+                                        To ensure the security of=
+ your online purchase, only the person whose name is listed on th=
+e credit card may pick up the merchandise at the store.</TD>=0A  =
+                                                  </TR>=0A       =
+                                         </TBODY>=0A             =
+                               </TABLE>=0A                       =
+                     <BR>=0A                                     =
+       <SPAN style=3D"FONT: 13px Verdana, Arial, Helvetica, sans-=
+serif">Questions? Read more about <A class=3Dnav style=3D"TEXT-DE=
+CORATION: none" href=3D"http://www.microcenter.com/site/customer-=
+support/pickup.aspx">In-store Pickup.</A></SPAN><BR>=0A          =
+                                  <BR>=0A                        =
+                    <SPAN style=3D"COLOR: #4d70b3; FONT: 18px Ari=
+al, Helvetica, sans-serif">Thank you - hope you visit again soon.=
+</SPAN><BR>=0A                                            <BR>=0A=
+                                            <SPAN style=3D"COLOR:=
+ #666666; FONT: 11px Verdana, Arial, Helvetica, sans-serif">*Plea=
+se remember to pick up your order within three calendar days or y=
+our order will be cancelled.</SPAN> </SPAN></TD>=0A              =
+                              <TD style=3D"FONT: 14px Verdana, Ar=
+ial, Helvetica, sans-serif; BORDER-LEFT: #ececec 1px solid" vAlig=
+n=3Dtop width=3D"25%" align=3Dleft><IMG alt=3D"Some stuff is read=
+y for pickup at Micro Center" src=3D"http://c783319.r19.cf2.rackc=
+dn.com/images_Transactional_emails_post_it_partial.gif" width=3D1=
+40 height=3D158><BR>=0A                                          =
+  <TABLE width=3D"99%">=0A                                       =
+         <TBODY>=0A                                              =
+      <TR>=0A                                                    =
+    <TD style=3D"PADDING-BOTTOM: 4px; PADDING-TOP: 4px; FONT: 11p=
+x Verdana, Arial, Helvetica, sans-serif; PADDING-LEFT: 4px; PADDI=
+NG-RIGHT: 4px" vAlign=3Dmiddle align=3Dleft><A class=3Dnav style=3D=
+"TEXT-DECORATION: none" href=3D"http://www.microcenter.com/site/p=
+roducts/computers.aspx" target=3D_blank>PC SYSTEMS</A></TD>=0A   =
+                                                 </TR>=0A        =
+                                            <TR>=0A              =
+                                          <TD style=3D"PADDING-BO=
+TTOM: 4px; PADDING-TOP: 4px; FONT: 11px Verdana, Arial, Helvetica=
+, sans-serif; PADDING-LEFT: 4px; PADDING-RIGHT: 4px" vAlign=3Dmid=
+dle align=3Dleft><A class=3Dnav style=3D"TEXT-DECORATION: none" h=
+ref=3D"http://www.microcenter.com/site/brands/apple-showcase.aspx=
+" target=3D_blank>APPLE</A></TD>=0A                              =
+                      </TR>=0A                                   =
+                 <TR>=0A                                         =
+               <TD style=3D"PADDING-BOTTOM: 4px; PADDING-TOP: 4px=
+; FONT: 11px Verdana, Arial, Helvetica, sans-serif; PADDING-LEFT:=
+ 4px; PADDING-RIGHT: 4px" vAlign=3Dmiddle align=3Dleft><A class=3D=
+nav style=3D"TEXT-DECORATION: none" href=3D"http://www.microcente=
+r.com/site/products/computer-parts.aspx" target=3D_blank>COMPUTER=
+ PARTS</A></TD>=0A                                               =
+     </TR>=0A                                                    =
+<TR>=0A                                                        <T=
+D style=3D"PADDING-BOTTOM: 4px; PADDING-TOP: 4px; FONT: 11px Verd=
+ana, Arial, Helvetica, sans-serif; PADDING-LEFT: 4px; PADDING-RIG=
+HT: 4px" vAlign=3Dmiddle align=3Dleft><A class=3Dnav style=3D"TEX=
+T-DECORATION: none" href=3D"http://www.microcenter.com/site/produ=
+cts/electronics.aspx" target=3D_blank>ELECTRONICS</A></TD>=0A    =
+                                                </TR>=0A         =
+                                           <TR>=0A               =
+                                         <TD style=3D"PADDING-BOT=
+TOM: 4px; PADDING-TOP: 4px; FONT: 11px Verdana, Arial, Helvetica,=
+ sans-serif; PADDING-LEFT: 4px; PADDING-RIGHT: 4px" vAlign=3Dmidd=
+le align=3Dleft><A class=3Dnav style=3D"TEXT-DECORATION: none" hr=
+ef=3D"http://www.microcenter.com/site/products/networking.aspx" t=
+arget=3D_blank>NETWORKING</A></TD>=0A                            =
+                        </TR>=0A                                 =
+                   <TR>=0A                                       =
+                 <TD style=3D"PADDING-BOTTOM: 4px; PADDING-TOP: 4=
+px; FONT: 11px Verdana, Arial, Helvetica, sans-serif; PADDING-LEF=
+T: 4px; PADDING-RIGHT: 4px" vAlign=3Dmiddle align=3Dleft><A class=
+=3Dnav style=3D"TEXT-DECORATION: none" href=3D"http://www.microce=
+nter.com/site/products/accessories.aspx" target=3D_blank>ACCESSOR=
+IES</A></TD>=0A                                                  =
+  </TR>=0A                                                    <TR=
+>=0A                                                        <TD s=
+tyle=3D"PADDING-BOTTOM: 4px; PADDING-TOP: 4px; FONT: 11px Verdana=
+, Arial, Helvetica, sans-serif; PADDING-LEFT: 4px; PADDING-RIGHT:=
+ 4px" vAlign=3Dmiddle align=3Dleft><A class=3Dnav style=3D"TEXT-D=
+ECORATION: none" href=3D"http://www.microcenter.com/site/products=
+/refurbished.aspx" target=3D_blank>REFURBS</A></TD>=0A           =
+                                         </TR>=0A                =
+                                    <TR>=0A                      =
+                                  <TD style=3D"PADDING-BOTTOM: 4p=
+x; PADDING-TOP: 4px; FONT: 11px Verdana, Arial, Helvetica, sans-s=
+erif; PADDING-LEFT: 4px; PADDING-RIGHT: 4px" vAlign=3Dmiddle alig=
+n=3Dleft><A class=3Dnav style=3D"TEXT-DECORATION: none" href=3D"h=
+ttp://www.microcenter.com/site/products/closeout.aspx" target=3D_=
+blank>CLOSEOUTS</A></TD>=0A                                      =
+              </TR>=0A                                           =
+         <TR>=0A                                                 =
+       <TD style=3D"PADDING-BOTTOM: 4px; PADDING-TOP: 4px; FONT: =
+11px Verdana, Arial, Helvetica, sans-serif; PADDING-LEFT: 4px; PA=
+DDING-RIGHT: 4px" vAlign=3Dmiddle align=3Dleft><A class=3Dnav sty=
+le=3D"TEXT-DECORATION: none" href=3D"http://www.microcenter.com/s=
+ite/products/open-box.aspx" target=3D_blank>OPEN BOX</A></TD>=0A =
+                                                   </TR>=0A      =
+                                              <TR>=0A            =
+                                            <TD style=3D"PADDING-=
+BOTTOM: 4px; PADDING-TOP: 4px; FONT: 11px Verdana, Arial, Helveti=
+ca, sans-serif; PADDING-LEFT: 4px; PADDING-RIGHT: 4px" vAlign=3Dm=
+iddle align=3Dleft><A class=3Dnav style=3D"TEXT-DECORATION: none"=
+ href=3D"http://www.microcenter.com/site/products/photography.asp=
+x" target=3D_blank>PHOTOGRAPHY</A></TD>=0A                       =
+                             </TR>=0A                            =
+                        <TR>=0A                                  =
+                      <TD style=3D"PADDING-BOTTOM: 4px; PADDING-T=
+OP: 4px; FONT: 11px Verdana, Arial, Helvetica, sans-serif; PADDIN=
+G-LEFT: 4px; PADDING-RIGHT: 4px" vAlign=3Dmiddle align=3Dleft><A =
+class=3Dnav style=3D"TEXT-DECORATION: none" href=3D"http://www.mi=
+crocenter.com/site/products/software.aspx" target=3D_blank>SOFTWA=
+RE</A></TD>=0A                                                   =
+ </TR>=0A                                                    <TR>=
+=0A                                                        <TD st=
+yle=3D"PADDING-BOTTOM: 4px; PADDING-TOP: 4px; FONT: 11px Verdana,=
+ Arial, Helvetica, sans-serif; PADDING-LEFT: 4px; PADDING-RIGHT: =
+4px" vAlign=3Dmiddle align=3Dleft><A class=3Dnav style=3D"TEXT-DE=
+CORATION: none" href=3D"http://www.microcenter.com/site/products/=
+gaming.aspx" target=3D_blank>GAMING</A></TD>=0A                  =
+                                  </TR>=0A                       =
+                         </TBODY>=0A                             =
+               </TABLE>=0A             =20                       =
+       </TD>=0A                                        </TR>=0A  =
+                                  </TBODY>=0A                    =
+            </TABLE>=0A                                </TD>=0A  =
+                          </TR>=0A                            <TR=
+>=0A                                <TD>=0A                      =
+          <TABLE class=3Dorder_summary; cellSpacing=3D2 cellPaddi=
+ng=3D4 width=3D"100%">=0A                                    <TBO=
+DY>=0A                                        <TR>=0A            =
+                                <TD style=3D"COLOR: white; FONT: =
+14px Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #4d=
+70b3" vAlign=3Dtop colSpan=3D2 align=3Dleft>Date:  9:18 AM on Dec=
+ 26 2015 | Partial Pickup Order Summary: Items Ready for Pickup</=
+TD>=0A                                        </TR>=0A           =
+                             <tr><td width=3D"50%" align=3D"left"=
+ valign=3D"middle" style=3D"font:11px Verdana, Arial, Helvetica, =
+sans-serif; border-bottom: 1px solid #4d70b3;">(1) of SKU 617704 =
+@ $99.99 each, TOTAL: $99.99</td><td width=3D"50%" align=3D"left"=
+ valign=3D"middle" style=3D"font:11px Verdana, Arial, Helvetica, =
+sans-serif; border-bottom: 1px solid #4d70b3;">FX 4350 Black Edit=
+ion 4.2GHz Quad-Core Socket AM3+ Boxed Processor</td></tr><tr><td=
+ width=3D"50%" align=3D"left" valign=3D"middle" style=3D"font:11p=
+x Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px solid=
+ #4d70b3;">(1) of SKU 622456 @ $49.99 each, TOTAL: $49.99</td><td=
+ width=3D"50%" align=3D"left" valign=3D"middle" style=3D"font:11p=
+x Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px solid=
+ #4d70b3;">Desktop Mainstream 1TB 7,200 RPM SATA III 6.0Gb/s 3.5"=
+ Internal Hard Drive WDBH2D0010HNC-NRSN</td></tr><tr><td width=3D=
+"50%" align=3D"left" valign=3D"middle" style=3D"font:11px Verdana=
+, Arial, Helvetica, sans-serif; border-bottom: 1px solid #4d70b3;=
+">(1) of SKU 787226 @ $124.99 each, TOTAL: $124.99</td><td width=3D=
+"50%" align=3D"left" valign=3D"middle" style=3D"font:11px Verdana=
+, Arial, Helvetica, sans-serif; border-bottom: 1px solid #4d70b3;=
+">Radeon R7 360 Overclocked 2GB GDDR5 PCI-e Video Card</td></tr><=
+tr><td width=3D"50%" align=3D"left" valign=3D"middle" style=3D"fo=
+nt:11px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px=
+ solid #4d70b3;">(1) of SKU 299933 @ $8.99 each, TOTAL: $8.99</td=
+><td width=3D"50%" align=3D"left" valign=3D"middle" style=3D"font=
+:11px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px s=
+olid #4d70b3;">32GB SuperSpeed USB 3.0 Flash Drive</td></tr><tr><=
+td width=3D"50%" align=3D"left" valign=3D"middle" style=3D"font:1=
+1px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px sol=
+id #4d70b3;">(1) of SKU 283705 @ $12.99 each, TOTAL: $12.99</td><=
+td width=3D"50%" align=3D"left" valign=3D"middle" style=3D"font:1=
+1px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px sol=
+id #4d70b3;">Tool Set 53 Piece</td></tr><tr><td width=3D"50%" ali=
+gn=3D"left" valign=3D"middle" style=3D"font:11px Verdana, Arial, =
+Helvetica, sans-serif; border-bottom: 1px solid #4d70b3;">(1) of =
+SKU 818377 @ $64.99 each, TOTAL: $64.99</td><td width=3D"50%" ali=
+gn=3D"left" valign=3D"middle" style=3D"font:11px Verdana, Arial, =
+Helvetica, sans-serif; border-bottom: 1px solid #4d70b3;">Graphit=
+e Series 230T Compact Mid Tower Computer Case - Black</td></tr><t=
+r><td width=3D"50%" align=3D"left" valign=3D"middle" style=3D"fon=
+t:11px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px =
+solid #4d70b3;">(1) of SKU 646729 @ $24.99 each, TOTAL: $24.99</t=
+d><td width=3D"50%" align=3D"left" valign=3D"middle" style=3D"fon=
+t:11px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px =
+solid #4d70b3;">970M Pro3 AM3 mATX AMD Motherboard</td></tr><tr><=
+td width=3D"50%" align=3D"left" valign=3D"middle" style=3D"font:1=
+1px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px sol=
+id #4d70b3;">(1) of SKU 740001 @ $3.99 each, TOTAL: $3.99</td><td=
+ width=3D"50%" align=3D"left" valign=3D"middle" style=3D"font:11p=
+x Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px solid=
+ #4d70b3;">Anti-Static Wrist Strap</td></tr>=0A                  =
+                      <TR>=0A                                    =
+        <TD style=3D"FONT: 11px Verdana, Arial, Helvetica, sans-s=
+erif" vAlign=3Dmiddle align=3Dright>Subtotal &raquo;</TD>=0A     =
+                                       <TD style=3D"FONT: 11px Ve=
+rdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dleft=
+>$390.92</TD>=0A                                        </TR>=0A =
+                                       <TR>=0A                   =
+                         <TD style=3D"FONT: 11px Verdana, Arial, =
+Helvetica, sans-serif" vAlign=3Dmiddle align=3Dright>Tax &raquo;<=
+/TD>=0A                                            <TD style=3D"F=
+ONT: 11px Verdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddle =
+align=3Dleft>$31.27</TD>=0A                                      =
+  </TR>=0A                                        <!--=0A        =
+                                <TR>=0A                          =
+                  <TD style=3D"FONT: 11px Verdana, Arial, Helveti=
+ca, sans-serif" vAlign=3Dmiddle align=3Dright>Recycle Fee &raquo;=
+</TD>=0A                                            <TD style=3D"=
+FONT: 11px Verdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddle=
+ align=3Dleft>{$TotalRecycleFee}</TD>=0A                         =
+               </TR>=0A                                        --=
+>=0A                                        <TR>=0A              =
+                              <TD style=3D"FONT: bolder 13px Aria=
+l, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dright>PARTIAL P=
+ICKUP ORDER TOTAL &raquo;</TD>=0A                                =
+            <TD style=3D"BORDER-TOP: #4d70b3 1px solid; FONT: bol=
+der 13px Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dle=
+ft>$422.19</TD>=0A                                        </TR>=0A=
+                                    </TBODY>=0A                  =
+              </TABLE>=0A                                </TD>=0A=
+                            </TR>=0A                            <=
+TR>=0A                                <TD><IMG alt=3D"" src=3D"ht=
+tp://c783319.r19.cf2.rackcdn.com/images_Transactional_emails_spac=
+er.gif" width=3D300 height=3D8></TD>=0A                          =
+  </TR>=0A                            =0A                        =
+    <TR>=0A                                <TD>=0A               =
+                 <TABLE cellSpacing=3D2 cellPadding=3D4 width=3D"=
+100%">=0A                                    <TBODY>=0A          =
+                              <TR>=0A                            =
+                <TD style=3D"COLOR: white; FONT: 14px Verdana, Ar=
+ial, Helvetica, sans-serif; BACKGROUND-COLOR: #4d70b3" vAlign=3Dt=
+op colSpan=3D2 align=3Dleft>Date:  9:18 AM on Dec 26 2015 | Unava=
+ilable Items</TD>=0A                                        </TR>=
+=0A                                        <TR>=0A               =
+                             <tr><td width=3D"50%" align=3D"left"=
+ valign=3D"middle" style=3D"font:11px Verdana, Arial, Helvetica, =
+sans-serif; border-bottom: 1px solid #4d70b3;">(1) of SKU 629204 =
+@ $5.99 each, TOTAL: $5.99</td><td width=3D"50%" align=3D"left" v=
+align=3D"middle" style=3D"font:11px Verdana, Arial, Helvetica, sa=
+ns-serif; border-bottom: 1px solid #4d70b3;">N150 Wireless N USB =
+Adapter</td></tr><tr><td width=3D"50%" align=3D"left" valign=3D"m=
+iddle" style=3D"font:11px Verdana, Arial, Helvetica, sans-serif; =
+border-bottom: 1px solid #4d70b3;">(1) of SKU 898486 @ $44.99 eac=
+h, TOTAL: $44.99</td><td width=3D"50%" align=3D"left" valign=3D"m=
+iddle" style=3D"font:11px Verdana, Arial, Helvetica, sans-serif; =
+border-bottom: 1px solid #4d70b3;">8GB SSC DDR3-2133 (PC3-17000) =
+CL 11 Desktop Memory Kit (Two 4GB Memory Modules)</td></tr>=0A   =
+                                     </TR>=0A                    =
+                </TBODY>=0A                                </TABL=
+E>=0A                                </TD>=0A                    =
+        </TR>=0A                            =0A                  =
+          <TR>=0A                                <TD><IMG alt=3D"=
+" src=3D"http://c783319.r19.cf2.rackcdn.com/images_Transactional_=
+emails_spacer.gif" width=3D300 height=3D8></TD>=0A               =
+             </TR>=0A                            <TR>=0A         =
+                       <TD>=0A                                <TA=
+BLE cellSpacing=3D2 cellPadding=3D4 width=3D"100%">=0A           =
+                         <TBODY>=0A                              =
+          <TR>=0A                                            <TD =
+style=3D"COLOR: white; FONT: 14px Verdana, Arial, Helvetica, sans=
+-serif; BACKGROUND-COLOR: #4d70b3" vAlign=3Dtop colSpan=3D2 align=
+=3Dleft>Pickup Order Information </TD>=0A                        =
+                </TR>=0A                                        <=
+TR>=0A                                            <TD style=3D"BO=
+RDER-BOTTOM: #4d70b3 1px solid; FONT: 11px Verdana, Arial, Helvet=
+ica, sans-serif" vAlign=3Dmiddle colSpan=3D2 align=3Dleft>Your em=
+ail address: kyle.pinzon@gmail.com</TD>=0A                       =
+                 </TR>=0A                                        =
+<TR>=0A                                            <TD style=3D"B=
+ORDER-BOTTOM: #cccccc 1px solid; FONT: 11px Verdana, Arial, Helve=
+tica, sans-serif" vAlign=3Dmiddle width=3D"60%" align=3Dleft>Bill=
+ing Information &raquo;</TD>=0A                                  =
+          <TD style=3D"BORDER-BOTTOM: #cccccc 1px solid; FONT: 11=
+px Verdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddle width=3D=
+"40%" align=3Dleft>Pickup Information &raquo;</TD>=0A            =
+                            </TR>=0A                             =
+           <TR>=0A                                            <TD=
+ style=3D"FONT: 11px Verdana, Arial, Helvetica, sans-serif" vAlig=
+n=3Dmiddle align=3Dleft>Payment Method: Pick Up</TD>=0A          =
+                                  <TD style=3D"FONT: 11px Verdana=
+, Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dleft>Micr=
+o Center Online Pickup #:</TD>=0A                                =
+        </TR>=0A                                        <TR>=0A  =
+                                          <TD style=3D"BORDER-BOT=
+TOM: #cccccc 1px solid; FONT: 11px Verdana, Arial, Helvetica, san=
+s-serif" vAlign=3Dmiddle align=3Dleft>Bill to &raquo;</TD>=0A    =
+                                        <TD style=3D"FONT: 11px V=
+erdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dlef=
+t>5490942</TD>=0A                                        </TR>=0A=
+                                        <TR>=0A                  =
+                          <TD style=3D"FONT: 11px Verdana, Arial,=
+ Helvetica, sans-serif" vAlign=3Dmiddle align=3Dleft>KYLE PINZON<=
+/TD>=0A                                            <TD style=3D"F=
+ONT: 11px Verdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddle =
+align=3Dleft>&nbsp;</TD>=0A                                      =
+  </TR>=0A                                        <TR>=0A        =
+                                    <TD style=3D"FONT: 11px Verda=
+na, Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dleft> <=
+/TD>=0A                                            <TD style=3D"F=
+ONT: 11px Verdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddle =
+align=3Dleft>&nbsp;</TD>=0A                                      =
+  </TR>=0A                                        <TR>=0A        =
+                                    <TD style=3D"FONT: 11px Verda=
+na, Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dleft>10=
+36 Eckenrode Way</TD>=0A                                         =
+   <TD style=3D"FONT: 11px Verdana, Arial, Helvetica, sans-serif"=
+ vAlign=3Dmiddle align=3Dleft>&nbsp;</TD>=0A                     =
+                   </TR>=0A                                      =
+  <TR>=0A                                            <TD style=3D=
+"FONT: 11px Verdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddl=
+e align=3Dleft> </TD>=0A                                         =
+   <TD style=3D"FONT: 11px Verdana, Arial, Helvetica, sans-serif"=
+ vAlign=3Dmiddle align=3Dleft>&nbsp;</TD>=0A                     =
+                   </TR>=0A                                      =
+  <TR>=0A                                            <TD style=3D=
+"FONT: 11px Verdana, Arial, Helvetica, sans-serif" vAlign=3Dmiddl=
+e align=3Dleft>Placentia CA 92870</TD>=0A                        =
+                    <TD style=3D"FONT: 11px Verdana, Arial, Helve=
+tica, sans-serif" vAlign=3Dmiddle align=3Dleft>&nbsp;</TD>=0A    =
+                                    </TR>=0A                     =
+                   <TR>=0A                                       =
+     <TD style=3D"FONT: 11px Verdana, Arial, Helvetica, sans-seri=
+f" vAlign=3Dmiddle align=3Dleft>(714) 319-0733</TD>=0A           =
+                                 <TD style=3D"FONT: 11px Verdana,=
+ Arial, Helvetica, sans-serif" vAlign=3Dmiddle align=3Dleft>&nbsp=
+;</TD>=0A                                        </TR>=0A        =
+                            </TBODY>=0A                          =
+      </TABLE>=0A                                </TD>=0A        =
+                    </TR>=0A                            <TR>=0A  =
+                              <TD><IMG alt=3D"" src=3D"http://c78=
+3319.r19.cf2.rackcdn.com/images_Transactional_emails_spacer.gif" =
+width=3D300 height=3D4></TD>=0A                            </TR>=0A=
+                            <TR>=0A                              =
+  <TD>=0A                                <TABLE width=3D"40%">=0A=
+                                    <TBODY>=0A                   =
+                     <TR>=0A                                     =
+       <TD vAlign=3Dmiddle align=3Dcenter><A href=3D"http://www.f=
+acebook.com/MicroCenter" target=3D_blank><IMG border=3D0 alt=3DFa=
+cebook src=3D"http://c783319.r19.cf2.rackcdn.com/images_Transacti=
+onal_emails_fbSOCIAL.gif" width=3D37 height=3D30></A></TD>=0A    =
+                                        <TD vAlign=3Dmiddle align=
+=3Dcenter><A href=3D"http://twitter.com/Microcenter" target=3D_bl=
+ank><IMG border=3D0 alt=3DTwitter src=3D"http://c783319.r19.cf2.r=
+ackcdn.com/images_Transactional_emails_twSOCIAL.gif" width=3D43 h=
+eight=3D30></A></TD>=0A                                          =
+  <TD vAlign=3Dmiddle align=3Dcenter><A href=3D"http://www.youtub=
+e.com/microcenter" target=3D_blank><IMG border=3D0 alt=3D"You Tub=
+e" src=3D"http://c783319.r19.cf2.rackcdn.com/images_Transactional=
+_emails_ytSOCIAL.gif" width=3D70 height=3D30></A></TD>=0A        =
+                                </TR>=0A                         =
+           </TBODY>=0A                                </TABLE>=0A=
+                                </TD>=0A                         =
+   </TR>=0A                            <TR>=0A                   =
+             <TD style=3D"BORDER-TOP: #cccccc 1px solid; COLOR: #=
+666666; FONT: 10px Verdana, Arial, Helvetica, sans-serif" vAlign=3D=
+top align=3Dleft>&raquo; PLEASE DO NOT RESPOND TO THIS EMAIL. Thi=
+s email was sent from a notification-only address that cannot acc=
+ept incoming email.</TD>=0A                            </TR>=0A  =
+                          <TR>=0A                                =
+<TD style=3D"COLOR: #666666; FONT: 10px Verdana, Arial, Helvetica=
+, sans-serif" vAlign=3Dtop align=3Dright>#042014_01</TD>=0A      =
+                      </TR>=0A                        </TBODY>=0A=
+                    </TABLE>=0A                    </TD>=0A      =
+          </TR>=0A            </TBODY>=0A        </TABLE>=0A    <=
+/BODY>=0A</HTML>
+

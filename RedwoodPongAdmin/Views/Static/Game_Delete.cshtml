@@ -1,0 +1,62 @@
+﻿@{
+    Layout = null;
+}
+    <h2>Game</h2>
+        <div class="form-horizontal">
+            <ul id="validationSummary"></ul>
+            Are you sure that you want to delete {{Game}}?
+            <div class="form-group">
+                <label for="Date" class = "control-label col-md-2">
+                Date
+                </label>
+                <div class="col-md-10">
+                    {{data.Date}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="PlayerRedScore" class = "control-label col-md-2">
+                PlayerRedScore
+                </label>
+                <div class="col-md-10">
+                    {{data.PlayerRedScore}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="PlayerBlueScore" class = "control-label col-md-2">
+                PlayerBlueScore
+                </label>
+                <div class="col-md-10">
+                    {{data.PlayerBlueScore}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="PlayerRed" class = "control-label col-md-2">
+                 PlayerRed
+                </label>
+                <div class="col-md-10">
+                    {{data.PlayerRed_FirstName}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="PlayerBlue" class = "control-label col-md-2">
+                 PlayerBlue
+                </label>
+                <div class="col-md-10">
+                    {{data.PlayerBlue_FirstName}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" ng-click="save()" />
+                </div>
+            </div>
+        </div>
+    
+    <div>
+        <a href="#/Game">Back to List</a>
+    </div>

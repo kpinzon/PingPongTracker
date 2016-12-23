@@ -1,0 +1,290 @@
+﻿
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    overflow-x: hidden;
+}
+
+span, h1,h2,h3,h4,h5 {
+    color: #adadad;
+}
+
+.leaderboardDiv {
+    margin-top: 15px;
+}
+/*div {
+    border: solid 1px yellow;
+}*/
+
+.leaderboardText {
+    font-size: 40px;
+    font-weight: 500;
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+.leaderboardHeadlines {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.dropdown-menu {
+  left: 50%;
+  right: auto;
+  text-align: center;
+  transform: translate(-50%, 0);
+}
+
+.img-circular {
+      width: 320px;
+ height: 320px;
+ 
+ background-size: cover;
+ display: block;
+ border-radius: 160px;
+ -webkit-border-radius: 160px;
+ -moz-border-radius: 160px;
+}
+
+.servingNotification {
+    background-color: #17ca31!important;
+    border-right: black 1px solid;
+    border-left: black 1px solid;
+    border-bottom: black 1px solid;
+    
+}
+
+.gamepointNotification {
+    background-color: #F07427;
+    border-right: black 1px solid;
+    border-left: black 1px solid;
+    border-bottom: black 1px solid;
+}
+
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.liveGame, .gameNotifs {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.liveGame {
+    height: 850px;
+}
+
+.notifications {
+    margin-bottom: 0px;
+    padding: 5px 0px;
+}
+
+
+.notifText {
+    margin-bottom: 0px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.bluePlayer {
+    background-color: #0e89d3;
+    height: 100%
+}
+
+.redPlayer {
+    background-color: #a80021;
+    height: 100%
+}
+
+.h3Notif {
+    margin-top: 0px;
+}
+
+.blueText {
+    color: #10BCEB!important;
+}
+
+.redText {
+    color: #DA0062!important;
+}
+
+.liveScore {
+    color: #fff;
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.liveName {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.playerScore {
+    margin-top: 10px;
+}
+
+.playerImage {
+    margin-top: 10px;
+}
+
+.playerName {
+    
+    margin-top: 10px;
+}
+
+.pointButton {
+    margin-top: 20px;
+}
+
+.statsText {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.statsSubText {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.statsScoreText {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.ELOText {
+    font-size: 28px;
+    font-weight: 500;
+    color: #FFF;
+}
+
+.liveH2HRed {
+    font-size: 25px;
+    color:#DA0062;
+    font-weight: 700;
+}
+
+.liveH2HBlue {
+    font-size: 25px;
+    color:#10BCEB;
+    font-weight: 700;
+}
+
+.liveLastGameNameRed {
+    font-size: 25px;
+    color:#DA0062;
+    font-weight: 700;
+}
+
+.liveLastGameNameBlue {
+    font-size: 25px;
+    color:#10BCEB;
+    font-weight: 700;
+}
+
+.pregameHeadline {
+    font-size: 50px;
+    font-weight: 500px;
+    margin-top: 10px;
+    
+}
+
+.lightblueText {
+    color: #D4E6F1  !important;
+}
+
+.pregameName {
+    font-size: 50px;
+    font-weight: 700px;
+    margin-top: 10px
+}
+
+.pregameText {
+    font-size: 32px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.pregamePlayerColumn {
+    margin-top: 20px;
+}
+
+.pregameStatColumn {
+    margin-top: 30px;
+}
+
+.horizontalPregameRule {
+    border: 1px solid #2E4053;
+    width: 50%;
+    align-self: center;
+    margin-left: 88px;
+    margin-top:10px;
+}
+
+.endGamePlayerRow {
+    height: 700px;
+}
+
+.winningHeadline {
+    margin-top: 80px;
+    font-size: 50px;
+    
+    font-weight: 500;
+}
+
+.winnerText {
+    color: #fff;
+}
+
+.dropdownText {
+    font-size: 20px;
+    color: #000;
+}
+
+.dropdownChoice {
+    font-size: 20px;
+    color: #000;
+}
+
+.selectPlayerHeadline {
+    font-size: 40px;
+    margin-top: 10px;
+    color: #fff;
+}
+
+.selectPlayerSubHeadline {
+    font-size: 30px;
+    margin-top: 10px;
+    color: #fff;
+}
+
+.selectPlayerVS {
+    font-size: 38px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.selectPlayerStartBtn {
+    margin-top: 10px;
+}
+
+.dropdownChoice:hover {
+    background-color: #cbd1db;
+    cursor: pointer;
+}
+
+.flameBorder {
+    background-image: url('../images/fireborder.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}

@@ -1,0 +1,52 @@
+﻿@{
+    Layout = null;
+}
+    <h2>Player Details Test</h2>
+        <div class="form-horizontal">
+            <ul id="validationSummary"></ul>
+            <div class="form-group">
+                <label for="FirstName" class = "control-label col-md-2">
+                FirstName
+                </label>
+                <div class="col-md-10">
+                    {{data.FirstName}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="LastName" class = "control-label col-md-2">
+                LastName
+                </label>
+                <div class="col-md-10">
+                    {{data.LastName}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="Red" class = "control-label col-md-2">
+                 Red
+                </label>
+                <div class="col-md-10">
+                    <a ng-href="#Game?Player={{data.Id }}" >
+                    {{data.Red_Count}}
+                    </a>
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="Blue" class = "control-label col-md-2">
+                 Blue
+                </label>
+                <div class="col-md-10">
+                    <a ng-href="#Game?Player={{data.Id }}" >
+                    {{data.Blue_Count}}
+                    </a>
+                </div>
+            </div>
+    
+           
+        </div>
+    
+    <div>
+        <a href="#/Player">Back to List</a>
+    </div>

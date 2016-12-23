@@ -1,0 +1,64 @@
+﻿@{
+    Layout = null;
+}
+    <h2>Game</h2>
+    <form name="theForm">
+        <div class="form-horizontal">
+            <ul id="validationSummary"></ul>
+            <div class="form-group">
+                <label for="Date" class = "control-label col-md-2"> Date </label>
+                <div class="col-md-10">
+                    <input type="text" ng-model="data.Date" id="Date"  class="form-control"/>
+                    <div id="validation_for_Date"></div>
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="PlayerRedScore" class = "control-label col-md-2"> PlayerRedScore </label>
+                <div class="col-md-10">
+                    <input type="text" ng-model="data.PlayerRedScore" id="PlayerRedScore"  class="form-control"/>
+                    <div id="validation_for_PlayerRedScore"></div>
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="PlayerBlueScore" class = "control-label col-md-2"> PlayerBlueScore </label>
+                <div class="col-md-10">
+                    <input type="text" ng-model="data.PlayerBlueScore" id="PlayerBlueScore"  class="form-control"/>
+                    <div id="validation_for_PlayerBlueScore"></div>
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="PlayerRedId" class = "control-label col-md-2"> PlayerRed </label>
+                <div class="col-md-10">
+                    <select ng-model="data.PlayerRedId" id="PlayerRedId"  class="form-control"
+                            ng-options="option.Id as option.Name for option in PlayerRedId_options">
+                        <option value="">-- choose PlayerRed --</option>
+                    </select>
+                    <div id="validation_for_PlayerRedId"></div>
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="PlayerBlueId" class = "control-label col-md-2"> PlayerBlue </label>
+                <div class="col-md-10">
+                    <select ng-model="data.PlayerBlueId" id="PlayerBlueId"  class="form-control"
+                            ng-options="option.Id as option.Name for option in PlayerBlueId_options">
+                        <option value="">-- choose PlayerBlue --</option>
+                    </select>
+                    <div id="validation_for_PlayerBlueId"></div>
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="button" value="Save" class="btn btn-default" ng-click="save()" />
+                </div>
+            </div>
+        </div>
+    </form>
+    
+    <div>
+        <a href="#/Game">Back to List</a>
+    </div>

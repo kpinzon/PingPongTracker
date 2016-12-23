@@ -1,0 +1,83 @@
+<div class="container">
+   
+    <div class="row text-center ">
+        <div class="col-md-4 text-center pregamePlayerColumn">
+            <div>
+                <img class="img-circular center-block" src={{redPlayer.Image}} alt="ping pong player">
+            </div>
+            <div class="pregameName">
+                <span class="redText">{{redPlayer.FirstName}}</span>
+            </div>
+            <div class="pregameHeadline">
+                <span class="lightblueText">Overall Record</span>
+            </div>
+            <div class="pregameText">
+                <span>{{redPlayer.Wins}} - {{redPlayer.Losses}}</span>
+            </div>
+            <div class="horizontalPregameRule"></div>
+            <div class="pregameHeadline">
+                <span class="lightblueText">Best Against</span>
+            </div>
+            <div class="pregameText">
+                <span>{{redBestAgainst}}</span>
+            </div>
+            <div class="horizontalPregameRule"></div>
+            <div class="pregameHeadline">
+                <span class="lightblueText">Worst Against</span>
+            </div>
+            <div class="pregameText">
+                <span>{{redWorstAgainst}}</span>
+            </div>
+            <div class="pregameHeadline">
+                <span class="lightblueText">ELO Rank</span>
+            </div>
+            <div class="pregameText">
+                <span>{{pongService.redPlayer.ELO}}</span>
+            </div>
+        </div>
+        <div class="col-md-3 pregameStatColumn">
+            <h3 class="pregameHeadline lightblueText">Pre-Game Stats</h3>
+            
+            <div>
+                <button class="btn btn-danger" ng-click="redServeFirst()">Red Serves First</button>
+            </div>
+            <div>
+                <button class="btn btn-primary" ng-click="blueServeFirst()">Blue Serves First</button>
+            </div>
+        </div>
+        <div class="col-md-4 pregamePlayerColumn">
+            <div>
+                <img class="img-circular center-block" src={{bluePlayer.Image}} alt="ping pong player">
+            </div>
+            <div class="pregameName">
+                <span class="blueText">{{bluePlayer.FirstName}}</span>
+            </div>
+            <div class="pregameHeadline">
+                <span class="lightblueText">Overall Record</span>
+            </div>
+            <div class="pregameText">
+                <span>{{bluePlayer.Wins}} - {{bluePlayer.Losses}}</span>
+            </div>
+            <div class="horizontalPregameRule"></div>
+            <div class="pregameHeadline">
+                <span class="lightblueText">Best Against</span>
+            </div>
+            <div class="pregameText">
+                <span>{{blueBestAgainst}}</span>
+            </div>
+            <div class="horizontalPregameRule"></div>
+            <div class="pregameHeadline">
+                <span class="lightblueText">Worst Against</span>
+            </div>
+            <div class="pregameText">
+                <span>{{blueWorstAgainst}}</span>
+            </div>
+            <div class="pregameHeadline">
+                <span class="lightblueText">ELO Rank</span>
+            </div>
+            <div class="pregameText">
+                <span>{{pongService.bluePlayer.ELO}}</span>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,53 @@
+﻿@{
+    Layout = null;
+}
+    <h2>Player</h2>
+        <div class="form-horizontal">
+            <ul id="validationSummary"></ul>
+            Are you sure that you want to delete {{Player}}?
+            <div class="form-group">
+                <label for="FirstName" class = "control-label col-md-2">
+                FirstName
+                </label>
+                <div class="col-md-10">
+                    {{data.FirstName}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="LastName" class = "control-label col-md-2">
+                LastName
+                </label>
+                <div class="col-md-10">
+                    {{data.LastName}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="Red" class = "control-label col-md-2">
+                 Red
+                </label>
+                <div class="col-md-10">
+                    {{data.Red_Count}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <label for="Blue" class = "control-label col-md-2">
+                 Blue
+                </label>
+                <div class="col-md-10">
+                    {{data.Blue_Count}}
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" ng-click="save()" />
+                </div>
+            </div>
+        </div>
+    
+    <div>
+        <a href="#/Player">Back to List</a>
+    </div>

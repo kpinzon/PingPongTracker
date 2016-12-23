@@ -1,0 +1,57 @@
+﻿<div class="container-fluid leaderboardDiv">
+    <div class="row">
+        <div class="text-center">
+            <img height="150" width="150" src="../Images/RCAlogo.png" />
+        </div>
+        <div class="text-center" style="margin-top: 10px;">
+<button class="btn btn-primary btn-lg" ng-click="newGameButton()" style="font-size: 25px">New Game</button>
+
+</div>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-6 text-center">
+        <h2 class="leaderboardHeadlines">Leaderboard (Ranked By ELO)</h2>
+        <div>
+            <div ng-repeat="player in players" class="leaderboardNamesDiv">
+                <span class="leaderboardText">{{$index +1}}. {{player.FirstName}} - {{player.ELO}}</span>
+
+            </div>
+
+        </div>
+    </div>
+    <div class="col-md-6 text-center">
+        <div>
+            <h2 class="leaderboardHeadlines">Biggest Winning Streak</h2>
+            <div>
+                <span class="leaderboardText">{{biggestWinStreakPlayer.FirstName}} - {{biggestWinStreakPlayer.BiggestWinStreak}}</span>
+            </div>
+        </div>
+        <div>
+            <h2 class="leaderboardHeadlines">Current Losing Streak</h2>
+            <div>
+                <span class="leaderboardText">{{losingStreakPlayer.FirstName}} - {{losingStreakPlayer.CurrentLosingStreak}}</span>
+            </div>
+        </div>
+        <div>
+            <h2 class="leaderboardHeadlines">Biggest Beatdown</h2>
+            <div>
+                <span class="leaderboardText">{{biggestBeatDown.PlayerBlueScore}} - {{biggestBeatDown.PlayerRedScore}}</span>
+            </div>
+            <div class="leaderboardText">
+                <span class="blueText">{{biggestBeatDown.PlayerBlue_FirstName}}</span><span></span> <span class="redText">{{biggestBeatDown.PlayerRed_FirstName}}</span>
+            </div>
+        </div>
+        <div>
+            <h2 class="leaderboardHeadlines">Last Game Played</h2>
+            <div>
+                <span class="leaderboardText">{{lastGame.PlayerRedScore}} - {{lastGame.PlayerBlueScore}}</span>
+            </div>
+            <div class="leaderboardText">
+                <span class="redText">{{lastGame.PlayerRed_FirstName}} </span><span class="blueText">{{lastGame.PlayerBlue_FirstName}}</span>
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>

@@ -1,0 +1,58 @@
+﻿    @{
+        Layout = null;
+    }
+    <h2>Game</h2>
+    <p>
+        <a href="#/Game/Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>
+                Date
+            </th>
+            <th>
+                PlayerRedScore
+            </th>
+            <th>
+                PlayerBlueScore
+            </th>
+            <th>
+                PlayerRed
+            </th>
+            <th>
+                PlayerBlue
+            </th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="item in data">
+            <td>
+                {{ item.Date }}
+            </td>
+            <td>
+                {{ item.PlayerRedScore }}
+            </td>
+            <td>
+                {{ item.PlayerBlueScore }}
+            </td>
+            <td>
+                    <a ng-href="#Player/{{item.PlayerRedId }}" >
+                    {{item.PlayerRed_FirstName}}
+                    </a>
+            </td>
+            <td>
+                    <a ng-href="#Player/{{item.PlayerBlueId }}" >
+                    {{item.PlayerBlue_FirstName}}
+                    </a>
+            </td>
+            <td>
+                <a ng-href="#/Game/Edit/{{item.Id}}">Edit</a> |
+                <a ng-href="#/Game/{{item.Id}}">Details</a> |
+                <a ng-href="#/Game/Delete/{{item.Id}}">Delete</a>
+            </td>
+        </tr>
+        </tbody>
+    
+    </table>

@@ -1,0 +1,105 @@
+<div ng-if="!pongService.loaded" style="height:800px" class="text-center">
+<img style="margin-top: 300px" src="../images/loading.gif">
+
+</div>
+
+<div class="container-fluid" ng-if="pongService.loaded">
+    <div class="row text-center liveGame">
+        <div class="col-md-6 gameNotifs redPlayer" ng-class="{'flameBorder': redStreak > 2}" >
+            <div style="height: 108px">
+                <div class="servingNotification notifications" ng-if="pongService.redServing">
+                    <h3 class="h3Notif notifText">Serving</h3>
+                </div>
+
+
+                <div class="gamepointNotification notifications" ng-if="redGamePoint">
+                    <h3 class="h3Notif notifText">Game Point</h3>
+                </div>
+</div>
+<div class="playerScore">
+    <span class="liveScore">{{redPlayerScore}}</span>
+</div>
+<div class="playerImage">
+    <img width="400" height="400" class="img-circular center-block" src={{pongService.redPlayer.Image}} alt="ping pong player">
+</div>
+<div class="playerName">
+    <span class="liveName">{{pongService.redPlayer.FirstName}}</span>
+</div>
+<div class="pointButton">
+    <button class="btn btn-success btn-xs" ng-click="addRedPoint()">+</button>
+
+    <button class="btn btn-danger btn-xs" ng-click="removeRedPoint()">-</button>
+</div>
+<div>
+    <span class='ELOText'>With a Win: {{ifRedWinEloDelta}}</span>
+</div>
+<div>
+    <span class='ELOText'>With a Loss: {{ifRedLoseEloDelta}}</span>
+</div>
+</div>
+<div class="col-md-6 gameNotifs bluePlayer" ng-class="{'flameBorder': blueStreak > 2}">
+    <div style="height: 108px">
+<div class="servingNotification notifications" ng-if="pongService.blueServing">
+    <h3 class="h3Notif notifText">Serving</h3>
+</div>
+
+
+<div class="gamepointNotification notifications" ng-if="blueGamePoint">
+    <h3 class="h3Notif notifText">Game Point</h3>
+</div>
+</div>
+<div class="playerScore">
+    <span class="liveScore">{{bluePlayerScore}}</span>
+</div>
+<div class="playerImage">
+    <img width="400" height="400" class="img-circular center-block" src={{pongService.bluePlayer.Image}} alt="ping pong player">
+</div>
+<div class="playerName">
+    <span class="liveName">{{pongService.bluePlayer.FirstName}}</span>
+</div>
+<div class="pointButton">
+    <button class="btn btn-success btn-xs" ng-click="addBluePoint()">+</button>
+
+    <button class="btn btn-danger btn-xs" ng-click="removeBluePoint()">-</button>
+</div>
+<div>
+    <span class='ELOText'>With a Win: {{ifBlueWinEloDelta}}</span>
+</div>
+<div>
+    <span class='ELOText'>With a Loss: {{ifBlueLoseEloDelta}}</span>
+</div>
+</div>
+</div>
+<div class="row text-center">
+    <div>
+
+        <span class="statsText">Stats</span>
+    </div>
+    <div class="col-md-5">
+        <div>
+            <span class="statsSubText">Last Game</span>
+        </div>
+        <div>
+            <span class="statsScoreText">{{pongService.lastMatchup.PlayerRedScore}}</span><span class="statsScoreText"> - </span>
+            <span class="statsScoreText">{{pongService.lastMatchup.PlayerBlueScore}}</span>
+        </div>
+        <div>
+            <span class="liveLastGameNameRed">{{pongService.lastMatchup.PlayerRed_FirstName}} </span><span class="liveLastGameNameBlue">{{pongService.lastMatchup.PlayerBlue_FirstName}}</span>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <img src="../Images/chromerefresher.gif" alt="" height="125px" width="125px">
+    </div>
+    <div class="col-md-5">
+        <div>
+            <span class="statsSubText">Head to Head</span>
+        </div>
+        <div>
+            <span class="statsScoreText">{{pongService.headToHead}}</span>
+        </div>
+        <div>
+            <span class="liveH2HRed">{{pongService.redPlayer.FirstName}} </span><span class="liveH2HBlue">{{pongService.bluePlayer.FirstName}}</span>
+        </div>
+    </div>
+</div>
+</div>

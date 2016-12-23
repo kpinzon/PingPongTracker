@@ -1,0 +1,72 @@
+<div class="container">
+  <div class="row text-center">
+    <div>
+      <img height="150" width="150" src="../Images/RCAlogo.png" />
+    </div>
+    <div>
+      <span class="selectPlayerHeadline">Select Players</span>
+    </div>
+  </div>
+  <hr />
+  <div class="row text-center">
+    <div class="col-md-5">
+      <div>
+        <span class="selectPlayerHeadline redText">Red Side</span>
+      </div>
+      <div class='dropdown'>
+        <button class="btn btn-default dropdown-toggle" type="button" id="redPlayerSelect" data-toggle="dropdown" aria-haspopup="true"
+          aria-expanded="false">
+          <span class="dropdownText">{{redDropdownText}}</span>
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="redPlayerSelect">
+          <li class="dropdownChoice" ng-repeat="player in players | orderBy: 'FirstName'" ng-hide="player.Id == redPlayer.Id ||  player.Id == bluePlayer.Id"
+            ng-click="selectRedPlayer(player)">{{player.FirstName}}</li>
+
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-2">
+      <h1 class="selectPlayerVS">VS.</h1>
+
+      <div>
+        <div>
+          <span class="selectPlayerSubHeadline">Play To:</span>
+          <div class='dropdown'>
+            <button class="btn btn-default dropdown-toggle" type="button" id="selectScore" data-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">
+              <span class="dropdownText">{{chooseScoreDropdownText}}</span>
+              <span class="caret"></span>
+        </button>
+            <ul class="dropdown-menu" aria-labelledby="redPlayerSelect">
+              <li class="dropdownChoice" ng-repeat="score in chooseScores" ng-click="selectScore(score)">{{score}}</li>
+
+            </ul>
+
+
+          </div>
+        </div>
+      </div>
+      <div>
+        <button class="btn btn-info selectPlayerStartBtn" ng-show="redPlayer != null && bluePlayer != null && playToScore != null" ng-click="goToPregame()">Start Game</button>
+      </div>
+    </div>
+    <div class="col-md-5">
+      <div>
+        <span class="blueText selectPlayerHeadline">Blue Side</span>
+      </div>
+      <div class=dropdown>
+        <button class="btn btn-default dropdown-toggle" type="button" id="bluePlayerSelect" data-toggle="dropdown" aria-haspopup="true"
+          aria-expanded="false">
+          <span class="dropdownText">{{blueDropdownText}}<span>
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="bluePlayerSelect">
+          <li class="dropdownChoice" ng-repeat="player in players | orderBy: 'FirstName'" ng-hide="player.Id == redPlayer.Id || player.Id == bluePlayer.Id"
+            ng-click="selectBluePlayer(player)">{{player.FirstName}}</li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

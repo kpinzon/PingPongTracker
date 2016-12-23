@@ -1,0 +1,53 @@
+<div class="container-fluid">
+    <div class="row redPlayer text-center endGamePlayerRow" ng-if="winner == 'red'">
+        <div class="winningHeadline">
+            <span class="winnerText">{{redPlayer.FirstName}} Wins</span>
+        </div>
+        <div style="margin-top: 50px">
+            <img width="300" height="300" class="img-circular center-block" src="{{pongService.redPlayer.Image}}"
+                alt="ping pong player">
+        </div>
+
+    </div>
+     <div class="row bluePlayer text-center endGamePlayerRow" ng-if="winner == 'blue'">
+        <div class="winningHeadline">
+            <span class="winnerText">{{bluePlayer.FirstName}} Wins</span>
+        </div>
+        <div style="margin-top: 50px">
+            <img width="300" height="300" class="img-circular center-block" src="{{pongService.bluePlayer.Image}}"
+                alt="ping pong player">
+        </div>
+
+    </div>
+    <div class="row text-center">
+        <div class="statsText">
+            <span>Stats</span>
+            
+        </div>
+        <div class="col-md-6" >
+            <div class="statsText">
+                <span>Final Score</span>
+            </div>
+            <div class="statsSubText">
+                <span>{{redPlayerScore}} - {{bluePlayerScore}}</span>
+            </div>
+            <div class="statsSubText">
+                <span class="redText">{{redPlayer.FirstName}} </span><span class="blueText">{{bluePlayer.FirstName}}</span>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="statsText">
+                <span>Head to Head</span>
+            </div>
+             <div>
+                <span class="statsScoreText">{{pongService.headToHead}}</span>
+            </div>
+            <div>
+                <span class="liveH2HRed">{{pongService.redPlayer.FirstName}} </span><span class="liveH2HBlue">{{pongService.bluePlayer.FirstName}}</span>
+            </div>
+        </div>
+        <div>
+            <button class="btn btn-info" ng-click="goHome()">Home</button>
+        </div>
+    </div>
+</div>
